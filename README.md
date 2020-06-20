@@ -1,6 +1,6 @@
 ## Queue Implementation Using Bull
 
-#### Installation
+### Installation
 
 > Clone this project using,
 
@@ -10,7 +10,7 @@
 
 ```npm ci```
 
-#### Run
+### Run
 
 > Run the project using,
 
