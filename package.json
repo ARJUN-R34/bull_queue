@@ -9,7 +9,7 @@
   "author": "ARJUN SASIKUMAR",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "bull": "^3.14.0",
     "bull-arena": "^2.8.1",
     "express": "^4.17.1",
